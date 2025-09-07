@@ -1,2 +1,3 @@
 # UBOT-AUTO-SEND-MESSAGE
-User bot sederhana
+sudo apt install python3
+pip install telethon
